@@ -1,0 +1,46 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+serviceAccountKey.json
+firebase-service-account*.json
+
+# Python
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# Expo / React Native
+.expo/
+.expo-shared/
+dist/
+web-build/
+android/
+ios/
+*.apk
+*.aab
+
+# Build and coverage artifacts
+build/
+coverage/
+.coverage
+*.log
+
+# Local databases and editor files
+*.db
+*.sqlite
+*.sqlite3
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
