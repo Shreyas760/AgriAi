@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Smart Crop Advisory",
+    "slug": "smart-crop-advisory",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": { "package": "com.hackathon.smartcropadvisory" },
+    "plugins": ["expo-router", "expo-image-picker"],
+    "scheme": "smartcrop"
+  }
+}
