@@ -160,6 +160,6 @@ Or, if GitHub CLI is authenticated:
 ```powershell
 gh repo create smart-crop-advisory-system --private --source=. --remote=origin --push
 ```
-<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/b0600961-59e2-45e0-ac1a-54a8cf3cdbbe" />
+<img width="638" height="1000" alt="image" src="https://github.com/user-attachments/assets/b0600961-59e2-45e0-ac1a-54a8cf3cdbbe" />
 <img width="738" height="1600" alt="Image3" src="https://github.com/user-attachments/assets/407f24a3-6b75-4738-b219-9ac4bf9845d2" />
 <img width="738" height="1600" alt="Image2" src="https://github.com/user-attachments/assets/aea99633-c8fd-4308-910b-1cf33858f9d3" />
