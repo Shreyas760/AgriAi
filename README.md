@@ -1,4 +1,4 @@
-# Smart Crop Advisory System
+# AgriAI - Smart Crop Advisory System
 
 An Expo mobile app and API platform for small and marginal farmers, focused only on two agriculture challenges:
 
