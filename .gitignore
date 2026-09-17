@@ -10,6 +10,7 @@ node_modules/
 *.key
 serviceAccountKey.json
 firebase-service-account*.json
+*firebase-adminsdk-*.json
 
 # Python
 __pycache__/
